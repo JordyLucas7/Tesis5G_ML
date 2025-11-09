@@ -1,0 +1,9 @@
+<img width="1406" height="938" alt="Arbol_TopologiaFinal" src="https://github.com/user-attachments/assets/1f43407f-da65-489a-a5bc-55194f091f3d" />
+<img width="1406" height="938" alt="Estrella_TopologiaFinal" src="https://github.com/user-attachments/assets/87da677b-f835-4e0e-9379-cca3cfa295db" />
+<img width="1406" height="938" alt="Malla_TopologiaFinal" src="https://github.com/user-attachments/assets/7f79b1ee-9089-4c21-97d2-909597e401bd" />
+<img width="719" height="860" alt="TFANN" src="https://github.com/user-attachments/assets/b7826c99-55cb-4ecb-b50e-3a700982bcb0" />
+<img width="719" height="859" alt="TFKNN" src="https://github.com/user-attachments/assets/6f41bbcb-e429-41de-8614-0ef1e2ac1aff" />
+<img width="719" height="860" alt="tflogr" src="https://github.com/user-attachments/assets/e0124a51-1464-4aff-b310-6582899b85c3" />
+<img width="719" height="860" alt="TFLSTM" src="https://github.com/user-attachments/assets/bb439675-6f29-40c2-ad82-3476edd1ebfa" />
+<img width="719" height="860" alt="TFRF" src="https://github.com/user-attachments/assets/10c4493a-a257-4e98-9049-9ad113f765b6" />
+<img width="720" height="860" alt="TFSVM" src="https://github.com/user-attachments/assets/b8109ca4-8d67-4caa-a3aa-5dc895293325" />
